@@ -45,6 +45,4 @@ A Windows Forms application for interfacing with Zebra RFID readers, providing r
 Default RFID Reader IP: 192.168.2.5
 Port: 5084
 
-## License
-
 [Your chosen license]
