@@ -58,6 +58,4 @@ Port: 5084
 - v2.0.0 - Added taskbar integration and REST API
 - v1.0.0 - Initial release with basic GUI
 
-## License
 
-[Your chosen license]
